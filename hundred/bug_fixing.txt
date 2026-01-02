@@ -3,4 +3,6 @@ this is in branch called bug-fix
 
 yeah, this is mani
 
-here i will conflict both
+here it will conflict both
+and it also will from dark-truth
+
